@@ -1,0 +1,6 @@
+[submodule "CoxI_front"]
+	path = CoxI_front
+	url = https://github.com/SiGae/CoxI_front.git
+[submodule "CoxI_Back"]
+	path = CoxI_Back
+	url = https://github.com/SiGae/CoxI_Back.git
